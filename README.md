@@ -11,10 +11,6 @@
 <li><a href="https://pt-br.reactjs.org/">ReactJS</a></li>
 <li><a href="https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript">Javascript</a></li>
 
-<h1>See the project on the air 🚀</h1>
-<a href="https://steamhover.vercel.app/">Steam Card Hover</a>
-
-
 <h1>Installation</h1>
 <p> 1. Clone the repository:</p>
 <code> git clone https://github.com/risingus/Steam_cards_hover.git </code>
